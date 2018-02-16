@@ -58,6 +58,7 @@ INSTALLED_APPS = [
     'debug_toolbar',
     'django_slack',
     'avatar',
+    'import_export',
 
     'django.contrib.admin',
     'django.contrib.auth',
