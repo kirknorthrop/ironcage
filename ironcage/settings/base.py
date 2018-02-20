@@ -59,6 +59,7 @@ INSTALLED_APPS = [
     'django_slack',
     'avatar',
     'import_export',
+    'django_object_actions',
 
     'django.contrib.admin',
     'django.contrib.auth',
